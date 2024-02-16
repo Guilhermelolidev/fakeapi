@@ -1,0 +1,9 @@
+{
+    "developers": [
+      { "id": 1, "nome": "Marcela da Silva", "tech": "react" },
+      { "id": 2, "nome": "José Luiz Felipe", "tech": "vue" },
+      { "id": 3, "nome": "Paulo Rogério", "tech": "node"},
+      { "id": 4, "nome": "Felipe da Cunha", "tech": "python" },
+      { "id": 5, "nome": "Luiza Cardoso Pereira", "tech": "go" }
+    ]
+  }
